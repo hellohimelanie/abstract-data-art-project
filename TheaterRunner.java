@@ -4,11 +4,11 @@ import org.code.media.*;
 public class TheaterRunner {
   public static void main(String[] args) {
 
-    DataScene scene = new DataScene();
+    DataScene scene = new DataScene(); //Sets a scene object from the DataScene class
 
 
-    scene.drawScene();
+    scene.drawScene(); //Scene draws a scene on the theater
     
-    Theater.playScenes(scene);
+    Theater.playScenes(scene); // The theater plays the scene
   }
 }

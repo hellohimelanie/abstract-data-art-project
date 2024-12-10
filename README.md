@@ -42,7 +42,6 @@ Record a short video of your abstract art animation to display here on your READ
 - Use the following markdown
 
 [![Thumbnail for my projet](![alt text](image-2.png))]
-
 ([youtube-URL-here](https://youtu.be/6VbmEC2hwKA))
 
 ## Description
